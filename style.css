@@ -1,0 +1,93 @@
+#container {
+	width: 1100px;
+	margin: 0px auto;
+	padding-bottom: 50px;
+	border: solid black 20px;
+	height: 620px;
+	background-color: #FCC201;
+}
+
+#image #Ramp {
+	width: 350px;
+	height: 150px;
+	float: right;
+	border: solid lightgrey;
+	text-align: center;
+	margin: 10px 10px 0px 0px;
+}
+
+#image #Ran {
+	width: 350px;
+	height: 150px;
+	float: right;
+	border: solid lightgrey;
+	text-align: center;
+	margin: 10px 10px 0px 0px;
+}
+
+#image #Rats {
+	width: 350px;
+	height: 150px;
+	float: right;
+	border: solid lightgrey;
+	text-align: center;
+	margin: 10px 10px 0px 0px;
+}
+
+#image #Rap {
+	width: 350px;
+	height: 150px;
+	float: right;
+	border: solid lightgrey;
+	text-align: center;
+	margin: 10px 10px 0px 0px;
+}
+
+
+nav{
+	width: 200px;
+	float: left;
+}
+
+nav ol li{
+	text-align: center;
+	border: solid lightgrey; 2px;
+	margin: 10px 0px 0px 10px;
+	list-style-type: none;
+	padding: 10px;
+}
+
+#main{
+	width: 450px;
+	margin: 0px 2em 2em 0px;
+	text-align: center;
+	float: right;
+}
+
+#main h2, p {
+	border: solid lightgrey;
+	padding:  1em;
+	text-align: center;
+	color:  #3f3f3f;
+}
+
+#main h2{
+	width: 250px;
+	text-align: center;
+}
+
+footer{
+	clear: both;
+	margin: 3em 0px 4em 300px;
+}
+
+footer ol li{
+	display: inline;
+	border: solid lightgrey; 1px;
+	padding: 1em;
+	margin-top: 25px;
+}
+
+body{
+  background-color: #d93442;
+ }
